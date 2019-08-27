@@ -1,2 +1,7 @@
 # bby2
-test
+Hi,everyone!
+
+It is my first using github!
+Wish I can have fun in github.
+
+
